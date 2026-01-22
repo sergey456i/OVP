@@ -453,6 +453,10 @@ body {
     color: #1a202c;
     font-size: 16px;
 }
+.label{
+    align-self: center;
+    padding: 0;
+}
 
 .form_input,
 .form_area {
